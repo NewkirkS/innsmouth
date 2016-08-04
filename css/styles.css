@@ -1,15 +1,32 @@
 
-#intro{
-  border: black solid;
-  color: red;
+#intro {
+  background-color: #008060;
+  border-radius: 2%;
 }
 
 #reviews {
-  border: black solid;
   color: blue;
+  text-align: center;
+}
+
+.pics {
+  max-height: 10%;
+  width: auto;
 }
 
 #pictures {
-  border: black solid;
   color: green;
+}
+
+.rpics {
+  display: block;
+border-radius: 50%;
+height: 200px;
+width: 55%;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+  background-color: #0086b3;
 }
